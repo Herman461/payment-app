@@ -1,0 +1,14 @@
+.header {
+    box-shadow: 0 1px 4px #E4E4EB;
+    // .header__container
+    &__container {
+        height: 60px;
+        display: flex;
+        align-items: center;
+    }
+
+    // .header__logo
+    &__logo {
+
+    }
+}

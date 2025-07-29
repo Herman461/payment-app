@@ -1,0 +1,14 @@
+.footer {
+    box-shadow: 0 -1px 0 #E4E4EB;
+    background: #FAFAFC;
+    // .footer__container
+    &__container {
+        height: 40px;
+        display: flex;
+        align-items: center;
+    }
+
+    // .footer__copyright
+    &__copyright {
+    }
+}
